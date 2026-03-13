@@ -56,5 +56,5 @@ jobs:
           commit-message: "Github Action Automatic Update CV Papers"
           files: README.md papers.json docs/index.md history.json
           rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+          name: "zhaoylee"
+          email: "1158003594@qq.com"
