@@ -1,10 +1,8 @@
 ## Daily Papers
 - [Monocular 3d Object Detection](#Monocular-3d-Object-Detection)
-- [Monocular 3D Visual Grounding](#Monocular-3D-Visual-Grounding)
-- [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.09.01
+## Updated on 2026.09.08
 
 ## Monocular 3d Object Detection
 
@@ -30,37 +28,4 @@
 |**2025-9-5**|**3D-MOOD: Lifting 2D to 3D for Monocular Open-Set Object Detection**|Yung-Hsu Yang et.al|[paper](https://arxiv.org/abs/2507.23567)|-|<details><summary>detail</summary>ICCV 2025</details>|
 |**2025-8-28**|**Adaptive Dual Uncertainty Optimization: Boosting Monocular 3D Object Detection under Test-Time Shifts**|Zixuan Hu et.al|[paper](https://arxiv.org/abs/2508.20488)|-|<details><summary>detail</summary>Accepted by ICCV 2025 (Highlight)</details>|
 |**2025-8-27**|**Generalizing Monocular 3D Object Detection**|Abhinav Kumar et.al|[paper](https://arxiv.org/abs/2508.19593)|-|<details><summary>detail</summary>PhD Thesis submitted to MSU</details>|
-
-## Monocular 3D Visual Grounding
-
-|Date|Title|Authors|PDF|Code|Comments|
-|:------|:---------------------|:---|:-|:-|:---|
-|**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2511.06908)|-|-|
-|**2025-8-26**|**Dual Enhancement on 3D Vision-Language Perception for Monocular 3D Visual Grounding**|Yuzhen Li et.al|[paper](https://arxiv.org/abs/2508.19165)|-|-|
-|**2023-12-13**|**Mono3DVG: 3D Visual Grounding in Monocular Images**|Yang Zhan et.al|[paper](https://arxiv.org/abs/2312.08022)|[code](https://github.com/ZhanYang-nwpu/Mono3DVG.)|<details><summary>detail</summary>Accepted by the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI 2024)</details>|
-
-## 3D Visual Grounding
-
-|Date|Title|Authors|PDF|Code|Comments|
-|:------|:---------------------|:---|:-|:-|:---|
-|**2026-8-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2608.30451)|-|<details><summary>detail</summary>Accepted by ACM Multimedia 2026 (MM '26)</details>|
-|**2026-8-28**|**Inter-3D VQA: A Roadside Multimodal Benchmark for 3D Spatiotemporally Grounded Visual Question Answering**|Shaozu Ding et.al|[paper](https://arxiv.org/abs/2608.28762)|[code](https://github.com/ASU-Suo-Lab/Inter-3D-VQA)|<details><summary>detail</summary>EMNLP 2026 main conference</details>|
-|**2026-8-27**|**Glass Surface Detection Grounded in 3D Visual Geometry**|Yiwei Lu et.al|[paper](https://arxiv.org/abs/2608.26752)|[code](https://github.com/YT3DVision/VGGT_GLASS.)|-|
-|**2026-8-12**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al|[paper](https://arxiv.org/abs/2603.08131)|-|-|
-|**2026-8-5**|**CoordRefer: Coordinate-Aware 3D Visual Grounding from Multiview Images**|Haijie Li et.al|[paper](https://arxiv.org/abs/2608.05569)|-|-|
-|**2026-8-5**|**Talk2Sensors: 3D Visual Grounding in Autonomous Driving via Sensor-Adaptive Physical Cue Matching**|Runwei Guan et.al|[paper](https://arxiv.org/abs/2608.04568)|-|-|
-|**2026-8-4**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al|[paper](https://arxiv.org/abs/2608.03763)|-|-|
-|**2026-8-1**|**GuideGround: VLM-guided Semantic Understanding and Viewpoint-aware Reasoning for 3D Visual Grounding**|Yiwen Wang et.al|[paper](https://arxiv.org/abs/2608.00518)|-|-|
-|**2026-7-22**|**MR-Compare: A Mixed-Reality Framework for Spatially Grounded Visual Comparison of 3D Gaussian Splatting and Mesh Reconstructions with the Physical Environment**|Changrui Zhu et.al|[paper](https://arxiv.org/abs/2607.20325)|[code](https://github.com/changruizhu96/MR-Compare.)|-|
-|**2026-7-14**|**VersaQ-3D: Architecture Support for Visual Geometry Grounded Transformers via Versatile Quantization**|Yipu Zhang et.al|[paper](https://arxiv.org/abs/2601.20317)|-|-|
-|**2026-7-7**|**OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding**|Wenyuan Huang et.al|[paper](https://arxiv.org/abs/2512.23020)|[code](https://why-102.github.io/openground.io/.)|<details><summary>detail</summary>ECCV2026</details>|
-|**2026-7-1**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al|[paper](https://arxiv.org/abs/2512.20907)|-|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-6-30**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>Preprint</details>|
-|**2026-6-29**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al|[paper](https://arxiv.org/abs/2512.21078)|[code](https://github.com/dtc111111/UniPR-3D.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
-|**2026-6-26**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Jiaming Bian et.al|[paper](https://arxiv.org/abs/2606.26964)|-|-|
-|**2026-6-18**|**Scaling Diverse Language Generation for 3D Visual Grounding**|Austin T. Wang et.al|[paper](https://arxiv.org/abs/2606.20946)|[code](https://3dlg-hcvc.github.io/vigil3dpp)|-|
-|**2026-5-28**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|[code](https://github.com/liuzhan22/JAEGER.)|<details><summary>detail</summary>ICML 2026</details>|
-|**2026-5-25**|**AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models**|Cuong Huynh et.al|[paper](https://arxiv.org/abs/2605.25901)|[code](https://github.com/be2rlab/AgentGrounder.)|<details><summary>detail</summary>Code: https://github</details>|
-|**2026-5-20**|**SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching**|Xuefei Sun et.al|[paper](https://arxiv.org/abs/2605.21788)|-|-|
-|**2026-4-28**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al|[paper](https://arxiv.org/abs/2604.26261)|-|-|
 
