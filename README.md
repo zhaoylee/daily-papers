@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.09.29
+## Updated on 2026.10.01
 
 ## Monocular 3d Object Detection
 
