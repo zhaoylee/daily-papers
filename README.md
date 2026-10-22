@@ -4,16 +4,16 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.10.15
+## Updated on 2026.10.22
 
 ## Monocular 3d Object Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-17**|**MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection**|Leon Davies et.al|[paper](https://arxiv.org/abs/2605.14781)|[code](https://github.com/leon-davies/MonoPRIO.)|<details><summary>detail</summary>Journal ref:Pattern Recognition 2026</details>|
 |**2026-10-13**|**MonoMIP: Multi-Height Inverse Perspective Mapping for Monocular 3D Object Detection**|Emir Ulurak et.al|[paper](https://arxiv.org/abs/2610.19071)|-|<details><summary>detail</summary>ACCV 2026</details>|
 |**2026-8-20**|**Vision Foundation Model Driven Foreground-Aware Pseudo-LiDAR Generation for Monocular 3D Object Detection**|Bonan Ding et.al|[paper](https://arxiv.org/abs/2404.09431)|-|-|
 |**2026-6-26**|**PLOT: Pseudo-Labeling via Object Tracking for Monocular 3D Object Detection**|Seokyeong Lee et.al|[paper](https://arxiv.org/abs/2507.02393)|[code](https://plot-eccv.github.io.)|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-5-14**|**MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection**|Leon Davies et.al|[paper](https://arxiv.org/abs/2605.14781)|[code](https://github.com/bigggs/MonoPRIO.)|-|
 |**2026-4-5**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al|[paper](https://arxiv.org/abs/2604.01646)|[code](https://github.com/VisualAIKHU/MonoSAOD)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-28**|**Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al|[paper](https://arxiv.org/abs/2505.04594)|-|<details><summary>detail</summary>Journal ref:CVPR 2026</details>|
 |**2026-3-27**|**Towards Intrinsic-Aware Monocular 3D Object Detection**|Zhihao Zhang et.al|[paper](https://arxiv.org/abs/2603.27059)|-|<details><summary>detail</summary>This paper is accepted by CVPR 2026</details>|
@@ -44,10 +44,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-16**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>EMNLP 2026 (Oral)</details>|
 |**2026-10-6**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al|[paper](https://arxiv.org/abs/2610.07982)|-|-|
 |**2026-10-5**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Jiaming Bian et.al|[paper](https://arxiv.org/abs/2606.26964)|-|<details><summary>detail</summary>NeurIPS 2026 (Main Track</details>|
 |**2026-10-2**|**Scaling 3D Visual Grounding in Abdominal CT**|Sam Church et.al|[paper](https://arxiv.org/abs/2610.04095)|-|-|
-|**2026-9-4**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>EMNLP 2026</details>|
 |**2026-9-4**|**Where to Look Matters: Learning Influential Views for VLM-based 3D Visual Grounding**|Tsung-Chih Chiang et.al|[paper](https://arxiv.org/abs/2609.04741)|[code](https://ivsground.github.io/)|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-8-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2608.30451)|-|<details><summary>detail</summary>Accepted by ACM Multimedia 2026 (MM '26)</details>|
 |**2026-8-28**|**Inter-3D VQA: A Roadside Multimodal Benchmark for 3D Spatiotemporally Grounded Visual Question Answering**|Shaozu Ding et.al|[paper](https://arxiv.org/abs/2608.28762)|[code](https://github.com/ASU-Suo-Lab/Inter-3D-VQA)|<details><summary>detail</summary>EMNLP 2026 main conference</details>|
