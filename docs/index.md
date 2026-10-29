@@ -4,7 +4,7 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.10.22
+## Updated on 2026.10.29
 
 ## Monocular 3d Object Detection
 
@@ -44,6 +44,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-26**|**ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting**|Jaesung Lee et.al|[paper](https://arxiv.org/abs/2610.36462)|[code](https://jaesung8.github.io/clustersplat/)|<details><summary>detail</summary>NeurIPS 2026 as a Spotlight paper</details>|
 |**2026-10-16**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>EMNLP 2026 (Oral)</details>|
 |**2026-10-6**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al|[paper](https://arxiv.org/abs/2610.07982)|-|-|
 |**2026-10-5**|**Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds**|Jiaming Bian et.al|[paper](https://arxiv.org/abs/2606.26964)|-|<details><summary>detail</summary>NeurIPS 2026 (Main Track</details>|
@@ -63,5 +64,4 @@
 |**2026-7-1**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al|[paper](https://arxiv.org/abs/2512.20907)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-29**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al|[paper](https://arxiv.org/abs/2512.21078)|[code](https://github.com/dtc111111/UniPR-3D.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
 |**2026-6-18**|**Scaling Diverse Language Generation for 3D Visual Grounding**|Austin T. Wang et.al|[paper](https://arxiv.org/abs/2606.20946)|[code](https://3dlg-hcvc.github.io/vigil3dpp)|-|
-|**2026-5-28**|**JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments**|Zhan Liu et.al|[paper](https://arxiv.org/abs/2602.18527)|[code](https://github.com/liuzhan22/JAEGER.)|<details><summary>detail</summary>ICML 2026</details>|
 
