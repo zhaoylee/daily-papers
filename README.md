@@ -4,12 +4,13 @@
 - [3D Visual Grounding](#3D-Visual-Grounding)
 
 
-## Updated on 2026.11.01
+## Updated on 2026.11.08
 
 ## Monocular 3d Object Detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-11-4**|**MonoLaDN: Language-Guided DeNoising for Monocular 3D Object Detection**|Kiet Dang Vu et.al|[paper](https://arxiv.org/abs/2611.06282)|-|<details><summary>detail</summary>ACCV 2026</details>|
 |**2026-10-17**|**MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection**|Leon Davies et.al|[paper](https://arxiv.org/abs/2605.14781)|[code](https://github.com/leon-davies/MonoPRIO.)|<details><summary>detail</summary>Journal ref:Pattern Recognition 2026</details>|
 |**2026-10-13**|**MonoMIP: Multi-Height Inverse Perspective Mapping for Monocular 3D Object Detection**|Emir Ulurak et.al|[paper](https://arxiv.org/abs/2610.19071)|-|<details><summary>detail</summary>ACCV 2026</details>|
 |**2026-8-20**|**Vision Foundation Model Driven Foreground-Aware Pseudo-LiDAR Generation for Monocular 3D Object Detection**|Bonan Ding et.al|[paper](https://arxiv.org/abs/2404.09431)|-|-|
@@ -29,7 +30,6 @@
 |**2025-11-8**|**RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection**|Xiaokai Bai et.al|[paper](https://arxiv.org/abs/2507.19856)|-|-|
 |**2025-9-7**|**S-LAM3D: Segmentation-Guided Monocular 3D Object Detection via Feature Space Fusion**|Diana-Alexandra Sas et.al|[paper](https://arxiv.org/abs/2509.05999)|-|-|
 |**2025-9-5**|**3D-MOOD: Lifting 2D to 3D for Monocular Open-Set Object Detection**|Yung-Hsu Yang et.al|[paper](https://arxiv.org/abs/2507.23567)|-|<details><summary>detail</summary>ICCV 2025</details>|
-|**2025-8-28**|**Adaptive Dual Uncertainty Optimization: Boosting Monocular 3D Object Detection under Test-Time Shifts**|Zixuan Hu et.al|[paper](https://arxiv.org/abs/2508.20488)|-|<details><summary>detail</summary>Accepted by ICCV 2025 (Highlight)</details>|
 
 ## Monocular 3D Visual Grounding
 
@@ -44,6 +44,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-31**|**QVR3D: Query-Guided Visual Reasoning for Training-Free 3D Grounding**|Jung-Hao Kao et.al|[paper](https://arxiv.org/abs/2611.01084)|[code](https://github.com/jwliao1209/QVR3D.)|<details><summary>detail</summary>Journal ref:WACV 2027</details>|
 |**2026-10-26**|**ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting**|Jaesung Lee et.al|[paper](https://arxiv.org/abs/2610.36462)|[code](https://jaesung8.github.io/clustersplat/)|<details><summary>detail</summary>NeurIPS 2026 as a Spotlight paper</details>|
 |**2026-10-16**|**PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding**|Duc Cao Dinh et.al|[paper](https://arxiv.org/abs/2606.31148)|[code](https://github.com/leduckhai/PruneGround)|<details><summary>detail</summary>EMNLP 2026 (Oral)</details>|
 |**2026-10-6**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al|[paper](https://arxiv.org/abs/2610.07982)|-|-|
@@ -63,5 +64,4 @@
 |**2026-7-7**|**OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding**|Wenyuan Huang et.al|[paper](https://arxiv.org/abs/2512.23020)|[code](https://why-102.github.io/openground.io/.)|<details><summary>detail</summary>ECCV2026</details>|
 |**2026-7-1**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung et.al|[paper](https://arxiv.org/abs/2512.20907)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-6-29**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al|[paper](https://arxiv.org/abs/2512.21078)|[code](https://github.com/dtc111111/UniPR-3D.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
-|**2026-6-18**|**Scaling Diverse Language Generation for 3D Visual Grounding**|Austin T. Wang et.al|[paper](https://arxiv.org/abs/2606.20946)|[code](https://3dlg-hcvc.github.io/vigil3dpp)|-|
 
